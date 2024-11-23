@@ -1,4 +1,4 @@
-## <div align="center"> 📊Visualizing Historical Gender Diversity in Computer Science Publications📚 
+## <div align="center">📊Visualizing Historical Gender Diversity in Computer Science Publications📚 
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ca214610-8bac-45e7-8939-853dbd410030" alt="Banner" width="600" />
