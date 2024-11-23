@@ -26,9 +26,9 @@ By integrating both analysis and visualization in a single Jupyter Notebook, thi
 
 ## 🎥 Code & Output Preview
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a462d1bc-bb3a-4163-965b-9ac0caa81fa3" alt="Code Preview" width="500" />
-  <img src="https://github.com/user-attachments/assets/804c9661-83ea-47ee-a047-5392aef5fde1" alt="Plot Preview" width="500" />
-  <img src="https://github.com/user-attachments/assets/c31c16f4-7737-471e-9ae8-3ef71b9762c3" alt="Output Preview" width="500" />
+  <img src="https://github.com/user-attachments/assets/0f15ed24-f59b-4192-9fbf-fffe817775e7" alt="Code Preview" width="500" />
+  <img src="https://github.com/user-attachments/assets/0e82c170-9b47-46ef-af63-e67120125c64" alt="Plot Preview" width="500" />
+  <img src="https://github.com/user-attachments/assets/d1d1c189-be29-4ef1-9c22-98fccbcbc76a" alt="Output Preview" width="500" />
 </div>
 
 ---
@@ -94,8 +94,6 @@ You can also run this project on Google Colab without setting up anything locall
    - Run all the cells in the notebook to fetch the dataset, perform the analysis, and visualize the results using the Dash app.
 
 ---
-
-[Report.pdf](https://github.com/user-attachments/files/17845485/Report.pdf)
 
 ## 📊 Key Features
 - **Gender Representation Trends**: Analyze gender diversity over time in computer science publications.
