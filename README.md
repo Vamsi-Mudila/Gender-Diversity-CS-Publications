@@ -1,11 +1,9 @@
-## <div align="center"> 📊 Visualizing Historical Gender Diversity in Computer Science Publications 📚 
+## <div align="center"> 📊Visualizing Historical Gender Diversity in Computer Science Publications📚 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7ceccf97-5b56-40eb-a899-01508eb33f06" alt="Banner" width="600" />
+  <img src="https://github.com/user-attachments/assets/ca214610-8bac-45e7-8939-853dbd410030" alt="Banner" width="600" />
 
-  <a href="https://github.com/user-attachments/files/17845485/Report.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Report-PDF-red" alt="Download Report Badge" />
-  </a>
+  <a href="https://github.com/user-attachments/files/17845485/Report.pdf" target="_blank"></a>
 </div>
 
 <div align="center">
