@@ -2,8 +2,6 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ca214610-8bac-45e7-8939-853dbd410030" alt="Banner" width="600" />
-
-  <a href="https://github.com/user-attachments/files/17845485/Report.pdf" target="_blank"></a>
 </div>
 
 <div align="center">
