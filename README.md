@@ -15,9 +15,7 @@
 
 
 ## 📌 Project Description
-This project visualizes historical gender diversity trends in computer science publications using data from the DBLP API and Kaggle datasets. It provides insights through an exploratory analysis and an interactive web application built with Dash. 
-
-By integrating both analysis and visualization in a single Jupyter Notebook, this project aims to facilitate user-friendly exploration of gender diversity trends over time.
+This project visualizes historical gender diversity trends in computer science publications using data from the DBLP API and Kaggle datasets. It provides insights through an exploratory analysis and an interactive web application built with Dash. By integrating both analysis and visualization in a single Jupyter Notebook, this project aims to facilitate user-friendly exploration of gender diversity trends over time.
 
 
 ---
