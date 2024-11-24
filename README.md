@@ -42,8 +42,8 @@ By integrating both analysis and visualization in a single Jupyter Notebook, thi
 ### Installation Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Vamsi-Mudila/Gender-Diversity-CS.git
-   cd Gender-Diversity-CS
+   git clone https://github.com/Vamsi-Mudila/Gender-Diversity-CS-Publications-Publications.git
+   cd Gender-Diversity-CS-Publications
    ```
 
 2. **Install Dependencies**:
@@ -79,7 +79,7 @@ By integrating both analysis and visualization in a single Jupyter Notebook, thi
 You can also run this project on Google Colab without setting up anything locally. Follow these steps:
 
 1. **Open the Project on Google Colab**:
-   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vamsi-Mudila/Gender-Diversity-CS/blob/main/workspace/Code.ipynb)
+   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vamsi-Mudila/Gender-Diversity-CS-Publications/blob/main/workspace/Code.ipynb)
 
 2. **Upload `kaggle.json`**:
    - After opening the notebook in Colab, upload your `kaggle.json` file by clicking on the folder icon on the left panel, then the upload button.
@@ -105,7 +105,7 @@ You can also run this project on Google Colab without setting up anything locall
 
 ## 🛠️ Project Structure
 ```
-Gender-Diversity-CS/
+Gender-Diversity-CS-Publications/
 │
 ├── README.md                  # Main project documentation
 ├── LICENSE                    # MIT License details
