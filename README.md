@@ -109,10 +109,11 @@ Gender-Diversity-CS-Publications/
 │
 ├── README.md                  # Main project documentation
 ├── LICENSE                    # MIT License details
+├── .gitignore                 # File specifying files and directories to ignore in Git
 ├── workspace/                 # Working files
 │   ├── Code.ipynb             # Main Jupyter Notebook (analysis + Dash app)
 │   ├── kaggle.json            # Kaggle API credentials (for your use only)
-│   └── requirements.txt       # Python dependencies
+│   ├── requirements.txt       # Python dependencies
 ```
 
 ---
