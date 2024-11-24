@@ -107,13 +107,13 @@ You can also run this project on Google Colab without setting up anything locall
 ```
 Gender-Diversity-CS-Publications/
 │
-├── README.md                  # Main project documentation
-├── LICENSE                    # MIT License details
-├── .gitignore                 # File specifying files and directories to ignore in Git
 ├── workspace/                 # Working files
 │   ├── Code.ipynb             # Main Jupyter Notebook (analysis + Dash app)
 │   ├── kaggle.json            # Kaggle API credentials (for your use only)
 │   ├── requirements.txt       # Python dependencies
+├── .gitignore                 # File specifying files and directories to ignore in Git
+├── LICENSE                    # MIT License details
+├── README.md                  # Main project documentation
 ```
 
 ---
