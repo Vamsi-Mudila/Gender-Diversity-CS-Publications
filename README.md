@@ -110,6 +110,7 @@ Gender-Diversity-CS-Publications/
 ├── .gitignore                 # File specifying files and directories to ignore in Git
 ├── LICENSE                    # MIT License details
 ├── README.md                  # Main project documentation
+├── Report.pdf                 # Project Report document
 ```
 
 ---
